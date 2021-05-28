@@ -1,1 +1,7 @@
-# shared_projects
+# Exploring Ebay Car Sales Data
+
+This project is a part of the [Data Scientist in Python](https://www.dataquest.io/path/data-scientist/) course I'm taking on Dataquest. 
+
+It uses a dataset composed of information about used cars announced on the classifieds section of the German eBay website, *eBay Kleinanzeigen*. The original dataset, scraped and uploaded to Kaggle by user orgesleka, is no longer available, but you can now find it [here](https://data.world/data-society/used-cars-data). 
+
+For this project, I used Pandas to explore, clean and analyse the data, answering some questions such as how old were the cars advertised, the top most common brands and the correlation between average price and mileage.
